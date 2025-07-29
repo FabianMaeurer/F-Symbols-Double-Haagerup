@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Mäurer"
+  given-names: "Fabian"
+title: "F Symbols for the double of the Haagerup fusion category"
+
+doi: 
+date-released: 2025-07-29
+url: "https://github.com/FabianMaeurer/F-Symbols-Double-Haagerup"
